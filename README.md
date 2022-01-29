@@ -2,7 +2,7 @@
 
 This software generates G-code conversationally for a 4 axis structural beam CNC plasma coping machine, code was written in Java using Swing, project was originally developed using the NetBeans IDE, if you need to compile it, make sure to fix the paths in the source files
 
-The machine this app was written for: [Plasma Beam Cutter Videos](https://www.metalinnovaecuador.com/videos-and-fotos.html)
+The machine this app was written for: [Plasma Beam Cutter Video](https://www.youtube.com/watch?v=gCoUrJcP2Ro&t=5s)
 
 # RUNNING THE APP
 
